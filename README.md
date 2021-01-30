@@ -15,3 +15,15 @@ required place and dumps in a specified place. The robot moves throughout the fr
 garden and senses all areas of the tree using IR sensors to pluck and pick fruits, having
 similar shape and size without damaging the fruits and other parts of tree like branches,
 leaves etc.
+
+
+Tools Used:
+
+AVR Software
+
+Firebird V(ATMEGA 2569 MCU)
+
+Programming Language:
+
+Embedded C
+
