@@ -17,13 +17,7 @@ similar shape and size without damaging the fruits and other parts of tree like 
 leaves etc.
 
 
-Tools Used:
+Tools Used: AVR Software, Firebird V(ATMEGA 2569 MCU)
 
-AVR Software
-
-Firebird V(ATMEGA 2569 MCU)
-
-Programming Language:
-
-Embedded C
+Programming Language: Embedded C
 
